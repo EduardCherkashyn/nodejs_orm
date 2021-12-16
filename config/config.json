@@ -1,0 +1,24 @@
+{
+  "development": {
+    "username": "postgres",
+    "password": "27A15B6B98ADC7424EB8975486FD6",
+    "database": "shop",
+    "host": "6.tcp.ngrok.io",
+    "dialect": "postgres",
+    "port": 19593
+  },
+  "test": {
+    "username": "root",
+    "password": null,
+    "database": "database_test",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "root",
+    "password": null,
+    "database": "database_production",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  }
+}
