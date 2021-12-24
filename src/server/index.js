@@ -50,6 +50,6 @@ async function createProduct() {
   console.log(res);
 }
 
-// createProduct();
+createProduct();
 
 module.exports = app;

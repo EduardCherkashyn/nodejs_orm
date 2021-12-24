@@ -3,9 +3,9 @@
     "username": "postgres",
     "password": "27A15B6B98ADC7424EB8975486FD6",
     "database": "shop",
-    "host": "6.tcp.ngrok.io",
+    "host": "8.tcp.ngrok.io",
     "dialect": "postgres",
-    "port": 19593
+    "port": 18697
   },
   "test": {
     "username": "root",
